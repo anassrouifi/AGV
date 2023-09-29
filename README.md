@@ -20,18 +20,28 @@ The key objectives of the AGV robot project include:
 
 By addressing these critical aspects, the AGV robot development project is poised to achieve its goals with clarity and precision while delivering significant benefits to stakeholders in the automotive wiring company.
 
-## Table of Contents (Optional)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Mechanical Design with CATIA
 
-## Installation
+The mechanical design for this AGV robot project was created using CATIA, a powerful computer-aided design (CAD) and computer-aided engineering (CAE) software. CATIA was chosen for its robust capabilities in modeling, simulation, and analysis, making it an ideal tool for designing complex mechanical systems like the AGV robot.
 
-Describe how to install and set up your AGV robot project. Include any dependencies and prerequisites that need to be installed. You can also provide step-by-step instructions if necessary.
+### CATIA Features Utilized
 
-```shell
-# Example installation commands if applicable
-git clone https://github.com/yourusername/AGV-Robot-Automation.git
-cd AGV-Robot-Automation
+- **3D Modeling:** CATIA was used to create detailed 3D models of the AGV robot's components, including its chassis, wheels, sensors, and other mechanical parts.
+
+- **Assembly Design:** CATIA's assembly design features were employed to assemble the individual components into a coherent and functional AGV robot model.
+
+- **Simulation and Analysis:** The software's simulation and analysis tools were instrumental in evaluating the robot's structural integrity, motion dynamics, and performance under different conditions.
+
+- **Rendering:** CATIA's rendering capabilities helped in creating realistic visual representations of the AGV robot, aiding in design visualization and presentation.
+
+### How to Access the CATIA Design Files
+
+The CATIA design files, including the 3D models and assembly files, can be found in the "CAD-Design" directory of this repository. You can use CATIA or a compatible software to open and explore these files.
+
+If you have any questions or need assistance with the mechanical design aspects of this project, please feel free to reach out to the project contributors.
+![WhatsApp Image 2023-09-29 at 20 47 11 (1)](https://github.com/anassrouifi/AGV/assets/146482590/b9fc6d50-ef8e-41f0-![WhatsApp Image 2023-09-29 at 20 47 11](https://github.com/anassrouifi/AGV/assets/146482590/2cf3900b-b5db-4026-8360-0cf36fc5cc83)
+a3bd-c49c2a27213d)
+
+
+
