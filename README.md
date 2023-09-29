@@ -1,6 +1,6 @@
 # AGV Robot Automation Project
+![robot-agv-edsrobotics-2-1024x819](https://github.com/anassrouifi/AGV/assets/146482590/a6b6ba9a-4199-43e8-830e-0cf60dafa098)
 
-![AGV Robot](link_to_your_image_here.png) <!-- Replace with an image of your AGV robot (if available) -->
 
 ## Description
 
