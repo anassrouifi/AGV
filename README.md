@@ -45,3 +45,31 @@ The CATIA design files, including the 3D models and assembly files, can be found
 
 
 ![WhatsApp Image 2023-09-29 at 20 47 11 (1)](https://github.com/anassrouifi/AGV/assets/146482590/7f72d4bc-7e32-4a48-b03a-a02ad239e745)
+## Electronics and Circuit Design
+
+The AGV robot project incorporates a range of electronic components and modules to enable its functionality. Altium Designer, a leading electronic design automation (EDA) software, was used for creating the schematic circuit and PCB layout for these electronics.
+
+### Key Electronics Components
+
+1. **ESP32 Microcontroller:** The ESP32 microcontroller serves as the brain of the AGV robot, providing processing power, Wi-Fi and Bluetooth connectivity, and interfacing with various sensors and actuators.
+
+2. **Motor Drivers:** Motor drivers are essential for controlling the movement of the robot's wheels. They enable precise control of the motors' speed and direction.
+
+3. **Sensors:** Various sensors, such as proximity sensors, encoders, and IMUs (Inertial Measurement Units), are integrated into the robot to collect data about its environment and orientation.
+
+4. **Power Management:** To ensure the AGV robot operates efficiently, power management modules, including voltage regulators and battery management systems, are used.
+
+5. **Communication Modules:** Wi-Fi and Bluetooth modules are employed for communication with external devices and for remote control or data exchange.
+
+6. **PCB (Printed Circuit Board):** The electronic components are integrated onto a custom-designed PCB, which optimizes the layout for compactness and reliability.
+
+### Altium Designer Schematic
+
+The schematic circuit for the AGV robot was designed using Altium Designer. Altium Designer offers powerful tools for electronic design, including schematic capture, PCB layout, and simulation. The schematic design can be found in the "Electronics" directory of this repository in Altium Designer's native file format.
+![WhatsApp Image 2023-09-29 at 20 51 19](https://github.com/anassrouifi/AGV/assets/146482590/2f2d1d29-6d58-4445-9006-f9d8a3e47931)
+
+
+### Circuit Diagram and Components
+
+You can find a high-level circuit diagram of the AGV robot in the "Electronics" directory as well. This diagram provides an overview of how the electronic components are connected and interact to bring the robot to life.
+
