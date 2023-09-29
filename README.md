@@ -41,10 +41,10 @@ The CATIA design files, including the 3D models and assembly files, can be found
 
 
 ![WhatsApp Image 2023-09-29 at 20 47 11](https://github.com/anassrouifi/AGV/assets/146482590/d491bb9f-5cbe-473a-920d-882169fa9191)
+![WhatsApp Image 2023-09-29 at 20 47 11 (1)](https://github.com/anassrouifi/AGV/assets/146482590/cbd9fce7-97b7-495a-ba55-c51724568b36)
 
 
 
-(https://github.com/anassrouifi/AGV/assets/146482590/7f72d4bc-7e32-4a48-b03a-a02ad239e745)
 ## Electronics and Circuit Design
 
 The AGV robot project incorporates a range of electronic components and modules to enable its functionality. Altium Designer, a leading electronic design automation (EDA) software, was used for creating the schematic circuit and PCB layout for these electronics.
