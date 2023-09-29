@@ -66,7 +66,7 @@ The AGV robot project incorporates a range of electronic components and modules 
 ### Altium Designer Schematic
 
 The schematic circuit for the AGV robot was designed using Altium Designer. Altium Designer offers powerful tools for electronic design, including schematic capture, PCB layout, and simulation. The schematic design can be found in the "Electronics" directory of this repository in Altium Designer's native file format.
-![WhatsApp Image 2023-09-29 at 20 51 19](https://github.com/anassrouifi/AGV/assets/146482590/2f2d1d29-6d58-4445-9006-f9d8a3e47931)
+<img width="478" alt="Cer" src="https://github.com/anassrouifi/AGV/assets/146482590/3a579ea1-6d5a-4704-86cf-80097e07df32">
 
 
 ### Circuit Diagram and Components
